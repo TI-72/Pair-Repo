@@ -1,0 +1,5 @@
+class Greeter{
+	public static void greetUser(String name){
+		System.out.println("Hello " + name);
+	}
+}
