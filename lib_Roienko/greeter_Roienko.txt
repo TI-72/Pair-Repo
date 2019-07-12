@@ -1,8 +1,5 @@
-class Greeter
-  def initialize(who)
-    @who = who
-  end
-  def greet
-    "Hello, #{@who}"
-  end
-end
+class Greeter{
+	public static void greetUser(String name){
+		System.out.print("Hello " + name);
+	}
+}
