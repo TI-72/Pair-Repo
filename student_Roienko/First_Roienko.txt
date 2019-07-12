@@ -1,1 +1,1 @@
-Now, we are changing the file to make second part of task
+First commit for work in pairs
